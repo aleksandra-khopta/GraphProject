@@ -1,0 +1,2 @@
+vertices: Kiev Vinnica Paris Kiev London
+edges: (Vinnica,Kiev,200) (Vinnica,Paris,2100) (Kiev,Paris,1800) (Kiev,London,2100) (Paris,London,300) (Vinnica,London,2500)

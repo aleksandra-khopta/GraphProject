@@ -1,0 +1,5 @@
+Kiev 200 Kiev London 2100 Kiev Paris 1800 
+Vinnica 0 Vinnica London 2500 Vinnica Paris 2100 Vinnica Kiev 200 
+Paris 2000 Paris London 300 
+London 2300 
+2000
